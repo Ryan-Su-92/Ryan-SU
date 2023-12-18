@@ -10,6 +10,10 @@
   --para-font: 'Roboto Mono', monospace;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 * {
   box-sizing: border-box;
 }
